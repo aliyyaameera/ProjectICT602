@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="colorPrimary">#4d5a66</color>
+    <color name="colorPrimaryDark">#252a2e</color>
+    <color name="grey">#D3D3D3</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="recyclerView" type="id"/>
+    <string name="app_name">EventExplorer</string>
+    <string name="copyright">Copyright © 2024. EventExplorer</string>
+    <string name="home_text">Start searching for events now!</string>
+    <string name="link"><a href="https://github.com/aliyyaameera/ICT602/tree/main/IndvAsg">Click here for more info</a></string>
+    <string name="select">Select State</string>
+    <style name="Base.Theme.ProjectICT602" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+    <style name="ButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="android:textColorPrimary">@color/black</item>
+    </style>
+    <style name="Theme.ProjectICT602" parent="Base.Theme.ProjectICT602"/>
+    <style name="ToolbarStyle" parent="Widget.AppCompat.ActionBar">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColorSecondary">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-mergeDebugResources-33:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-main-36:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-mergeDebugResources-33:\\layout\\list_item.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-main-36:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-mergeDebugResources-33:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-mergeDebugResources-33:\\layout\\activity_maps.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-main-36:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "com.lab.projectict602.app-mergeDebugResources-33:/layout/custom_info_window.xml",
+        "source": "com.lab.projectict602.app-main-36:/layout/custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-mergeDebugResources-33:\\layout\\custom_info_window.xml",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.4\\com.lab.projectict602.app-main-36:\\layout\\custom_info_window.xml"
+    }
+]
